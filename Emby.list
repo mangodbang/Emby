@@ -1,7 +1,5 @@
-#======================================#
-#更新时间 2024-10-18
-#https://t.me/ddgksf2021
-#======================================#
+# > 通用
+DOMAIN-KEYWORD, emby
 
 # > ntRRR
 DOMAIN-SUFFIX, stream.ntrrr.top
@@ -28,6 +26,7 @@ IP-CIDR,212.90.120.164/32,no-resolve
 
 #> 1111
 DOMAIN-SUFFIX,emby.ml
+DOMAIN-SUFFIX,xmsl.org
 DOMAIN-SUFFIX,loseremby.org
 
 # > llon plex
@@ -174,6 +173,56 @@ DOMAIN,cc.ccemby.tk
 DOMAIN,direct.nebula-emby.com
 
 # > aca
-DOMAIN,emby.aca.best
-DOMAIN,porn.aca.best
+DOMAIN,aca.misakaf.org
+
+# > makima
+DOMAIN-SUFFIX,makima.online
+
+# > micu
+DOMAIN-SUFFIX,micu.hk
+
+# > 好鸭
+DOMAIN-SUFFIX,niceduck.lol
+
+# > hxd
+DOMAIN-SUFFIX,as174.de
+DOMAIN-SUFFIX,bili.rip
+
+# > Temby
+DOMAIN,temby856.285286.xyz
+
+# > Temby
+DOMAIN-SUFFIX,embymv.link
+DOMAIN,gfhd.19991998.xyz
+
+# > 映月、月饼
+DOMAIN-SUFFIX,emby.my
+
+# >Lyrebird
+DOMAIN-SUFFIX,lyrebirdemby.com
+
+# >Lyrebird
+DOMAIN-SUFFIX,itsmyduty.top
+
+# >nyamedia
+DOMAIN-SUFFIX,bangumi.ca
+
+# >鹅服
+DOMAIN,cavps.eu.org
+DOMAIN,wmxz.567996.xyz
+
+# >hka
+DOMAIN,hka-emby.aliz.work
+DOMAIN,wmxz.567996.xyz
+
+# > 部分ip
+IP-CIDR,38.58.178.173/32
+IP-CIDR,154.12.52.147/32
+IP-CIDR,193.123.232.141/32
+IP-CIDR,154.29.145.151/32
+IP-CIDR,50.114.55.29/32
+
+
+
+
 
