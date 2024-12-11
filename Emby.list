@@ -192,8 +192,9 @@ DOMAIN,temby856.285286.xyz
 DOMAIN-SUFFIX,embymv.link
 DOMAIN,gfhd.19991998.xyz
 
-# > 映月、月饼
-DOMAIN-SUFFIX,emby.my
+# > 月饼
+DOMAIN-SUFFIX,cdn.emby.my
+DOMAIN-SUFFIX,wh.emby.my
 
 # >Lyrebird
 DOMAIN-SUFFIX,lyrebirdemby.com
