@@ -188,7 +188,7 @@ DOMAIN-SUFFIX,bili.rip
 # > Temby
 DOMAIN-SUFFIX,285286.xyz
 
-  # > Peach
+# > Peach
 DOMAIN-SUFFIX,embymv.link
 DOMAIN,gfhd.19991998.xyz
 
@@ -219,7 +219,7 @@ DOMAIN,wmxz.567996.xyz
 DOMAIN-SUFFIX,abc.auroramedia.vip
 
 # >AlphaTVOversea
-DOMAIN,alphatvapp.top
+DOMAIN-SUFFIX,alphatvapp.top
 IP-CIDR,107.181.238.190/32
 IP-CIDR,154.40.33.88/32
 IP-CIDR,148.135.94.8/32
