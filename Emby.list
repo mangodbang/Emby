@@ -200,7 +200,7 @@ DOMAIN-SUFFIX,wh.emby.my
 DOMAIN-SUFFIX,lyrebirdemby.com
 
 # >Levilde Luminia
-DOMAIN-SUFFIX,itsmyduty.top
+#DOMAIN-SUFFIX,itsmyduty.top
 
 # >nyamedia
 DOMAIN-SUFFIX,bangumi.ca
