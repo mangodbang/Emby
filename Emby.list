@@ -163,7 +163,7 @@ DOMAIN-SUFFIX,gfwemby.org
 # > 垃圾影音
 DOMAIN-SUFFIX,loseremby.org
 
-# > Cc
+# > CC
 DOMAIN,cc.ccemby.tk
 
 # > Nebula
@@ -209,7 +209,6 @@ DOMAIN-SUFFIX,bangumi.ca
 DOMAIN,cavps.eu.org
 DOMAIN,wmxz.567996.xyz
 DOMAIN,emby.pppp.us.kg
-IP-CIDR,23.175.184.104/32
 IP-CIDR,156.224.77.167/32
 IP-CIDR,50.114.55.29/32
 
