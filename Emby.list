@@ -203,14 +203,6 @@ DOMAIN,emby.clun.top
 # >nyamedia
 DOMAIN-SUFFIX,bangumi.ca
 
-# >鹅服
-DOMAIN,cavps.eu.org
-DOMAIN,wmxz.567996.xyz
-DOMAIN,emby.pppp.us.kg
-IP-CIDR,156.224.77.167/32
-IP-CIDR,50.114.55.29/32
-IP-CIDR,141.11.175.105/32
-
 # >极光
 DOMAIN,abc.auroramedia.vip
 
