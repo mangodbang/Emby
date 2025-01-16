@@ -224,6 +224,9 @@ DOMAIN-SUFFIX,tanhuatv.site
 # >起点站
 DOMAIN-SUFFIX,tdck.fun
 
+#守候网络
+DOMAIN,emby.cn2gias.uk
+
 # > 部分ip
 IP-CIDR,38.58.178.173/32
 IP-CIDR,154.12.52.147/32
