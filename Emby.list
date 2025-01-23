@@ -185,10 +185,8 @@ DOMAIN,gfhd.19991998.xyz
 
 # > 月饼
 DOMAIN,emby.my
-DOMAIN,cdn.emby.my
-DOMAIN,ccdn.emby.my
-DOMAIN,wh.emby.my
-DOMAIN,whcn2gia.emby.my
+DOMAIN,shanghai.emby.my
+
 
 # >Lyrebird
 DOMAIN-SUFFIX,lyrebirdemby.com
