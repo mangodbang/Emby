@@ -190,6 +190,7 @@ DOMAIN,shanghai.emby.my
 
 # >Lyrebird
 DOMAIN-SUFFIX,lyrebirdemby.com
+IP-CIDR,188.172.228.65/32
 
 # >Levilde Luminia
 DOMAIN,eggtartemby.itsmyduty.top
