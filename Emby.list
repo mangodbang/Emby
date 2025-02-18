@@ -201,9 +201,6 @@ DOMAIN,emby.clun.top
 # >nyamedia
 DOMAIN-SUFFIX,bangumi.ca
 
-# >极光
-DOMAIN,abc.auroramedia.vip
-
 # >音海拾贝
 DOMAIN,music.makifx.com
 
@@ -221,8 +218,8 @@ DOMAIN,lite.saturday.video
 # >探花
 DOMAIN-SUFFIX,tanhuatv.site
 
-# >起点站
-DOMAIN-SUFFIX,tdck.fun
+# >好鸭
+DOMAIN-SUFFIX,niceduck.lol
 
 #守候网络
 DOMAIN,emby.cn2gias.uk
