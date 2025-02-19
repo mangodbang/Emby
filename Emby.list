@@ -194,9 +194,8 @@ DOMAIN-SUFFIX,lyrebirdemby.com
 IP-CIDR,188.172.228.65/32
 
 # >Levilde Luminia
-DOMAIN,eggtartemby.itsmyduty.top
 DOMAIN,emby.clun.top
-#DOMAIN-SUFFIX,itsmyduty.top
+DOMAIN-SUFFIX,itsmyduty.top
 
 # >nyamedia
 DOMAIN-SUFFIX,bangumi.ca
