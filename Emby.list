@@ -224,7 +224,7 @@ DOMAIN-SUFFIX,niceduck.lol
 DOMAIN,emby.cn2gias.uk
 
 #zox
-DOMAIN,entry.zox.show
+DOMAIN-SUFFIX,zox.show
 
 # > 部分ip
 IP-CIDR,38.58.178.173/32
