@@ -188,7 +188,6 @@ DOMAIN-SUFFIX,embymv.top
 DOMAIN,emby.my
 DOMAIN,shanghai.emby.my
 
-
 # >Lyrebird
 DOMAIN-SUFFIX,lyrebirdemby.com
 IP-CIDR,188.172.228.65/32
@@ -205,7 +204,10 @@ DOMAIN,music.makifx.com
 
 # >AlphaTV
 DOMAIN-SUFFIX,alphatvapp.top
-DOMAIN-SUFFIX,204cloud.com
+DOMAIN,aop1.204cloud.com
+DOMAIN,aop2.204cloud.com
+DOMAIN,aop3.204cloud.com
+DOMAIN,aop4.204cloud.com
 
 # > SaturDay.Lite
 DOMAIN,lite.saturday.video
