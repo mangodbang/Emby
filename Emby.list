@@ -203,13 +203,9 @@ DOMAIN-SUFFIX,bangumi.ca
 # >音海拾贝
 DOMAIN,music.makifx.com
 
-# >AlphaTVOversea
+# >AlphaTV
 DOMAIN-SUFFIX,alphatvapp.top
-IP-CIDR,107.181.226.66/32
-IP-CIDR,154.40.33.88/32
-IP-CIDR,154.29.159.230/32
-IP-CIDR,148.135.94.8/32
-IP-CIDR,103.197.185.84/32
+DOMAIN-SUFFIX,204cloud.com
 
 # > SaturDay.Lite
 DOMAIN,lite.saturday.video
