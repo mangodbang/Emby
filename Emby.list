@@ -187,6 +187,7 @@ DOMAIN-SUFFIX,embymv.top
 # > 月饼
 DOMAIN,emby.my
 DOMAIN,shanghai.emby.my
+DOMAIN-SUFFIX,115cdn.de
 
 # >Lyrebird
 DOMAIN-SUFFIX,lyrebirdemby.com
