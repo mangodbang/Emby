@@ -185,8 +185,7 @@ DOMAIN,gfhd.19991998.xyz
 DOMAIN-SUFFIX,embymv.top
 
 # > 月饼
-DOMAIN,emby.my
-DOMAIN,shanghai.emby.my
+DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,115cdn.de
 
 # >Lyrebird
